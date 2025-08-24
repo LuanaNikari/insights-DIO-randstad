@@ -53,7 +53,7 @@ Assistente de voz:
 
 
 
-![Imagem de recurso Azure.]([https://LuanaNiakri.com/assets/images/recurso-azure](https://github.com/LuanaNikari/insights-DIO-randstad/blob/main/recurso-azure.png))
+![Imagem de recurso Azure.](https://github.com/LuanaNikari/insights-DIO-randstad/blob/main/recurso-azure.png)
 
 Para que a empresa possa usufruir de tais recursos personalizados do Azure, é interessante seguir o fluxo:
 
