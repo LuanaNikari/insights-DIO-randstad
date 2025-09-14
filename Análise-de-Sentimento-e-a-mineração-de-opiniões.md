@@ -1,4 +1,4 @@
-## **A análise de sentimento**
+## 📊 **A análise de sentimento**
 
 
 A análise de sentimento é uma das aplicações mais conhecidas de Machine Learning dentro do Processamento de Linguagem Natural.
@@ -7,7 +7,7 @@ Trata-se do processo de identificar automaticamente a opinião ou emoção expre
 - Negativo (críticas, reclamações);
 - Neutro (sem polaridade emocional clara)
 
-O Machine Learning aprende a reconhecer sentimentos a partir de dados rotulados.
+🧠 O Machine Learning aprende a reconhecer sentimentos a partir de dados rotulados.
 
 A mineração de opinião é um recurso da análise de sentimento, também conhecida como análise de sentimento baseada em aspecto no NLP (Processamento de Linguagem Natural). Esse recurso fornece informações mais granulares sobre as opiniões relacionadas a palavras (como os atributos de produtos ou serviços) no texto.
 
